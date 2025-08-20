@@ -1,2 +1,3 @@
-# Testfest_praksisprosjekt
-Testfest - Praksisprosjekt for høst 2025, i samarbeid med Tingtun. 
+# Praksisprosjek_nettside
+
+Gruppa sin egen nettside hvor vi skal senere legge inn innhold.
