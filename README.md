@@ -1,3 +1,3 @@
 # Praksisprosjek_nettside
 
-Gruppa sin egen nettside hvor vi skal senere legge inn innhold.
+Gruppa sin egen nettside hvor vi skal senere legge inn innhold. Fikk til å endre
