@@ -1,3 +1,3 @@
- ![Logo](./IMAGES/tingtun-logo.pngtingtun-logo) 
+![Logo](./IMAGES/tingtun-logo.png)
 
-                        # Praksisprosjekt nettside
+                         # Praksisprosjekt nettside
